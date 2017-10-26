@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Ethan/Downloads/Ftc2018RelicRecovery-master/Ftc3543Lib/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="27bae4cc4200f6269810a0093dccaedd6f88590b">
+        <dex dex="/Users/Ethan/Downloads/Ftc2018RelicRecovery-master/TeamCode/build/intermediates/pre-dexed/debug/classes_ab0b80d0ae6a74c8bf2f81438895af27e38c1c2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ethan/.android/build-cache/e3d6105d67d3dd1d9c8eb52497f876d8a6fb62d6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c2abba0621a5319232804767218216568263aa37">
+        <dex dex="/Users/Ethan/Downloads/Ftc2018RelicRecovery-master/TeamCode/build/intermediates/pre-dexed/debug/classes_1433f7b5e48d44fe388be6fd9eb76a68bbe795df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ethan/.android/build-cache/fe92388e75fd598e7948fed529e559485c5e843f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="75bdc736b17d8f39d246beac357cb3a0e007fcfa">
+        <dex dex="/Users/Ethan/Downloads/Ftc2018RelicRecovery-master/TeamCode/build/intermediates/pre-dexed/debug/classes_d7c5a706ae082637fa24b7ee42650fcaa6751159.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ethan/.android/build-cache/aaebd82306c61a8ce36b92b0089dff57be993628/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="96cbbea552fe9bf3c56540c7e4912eb5cf72301e">
+        <dex dex="/Users/Ethan/Downloads/Ftc2018RelicRecovery-master/TeamCode/build/intermediates/pre-dexed/debug/classes_4f92b6db46f900ac4abd0b4295fdbc5936e79f1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ethan/.android/build-cache/7eb7d6c457898bb1b0522c6cd8ed0e25575c223b/output/jars/libs/javac.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c576121aac49e547b39aedfb1daa29782db4166c">
+        <dex dex="/Users/Ethan/Downloads/Ftc2018RelicRecovery-master/TeamCode/build/intermediates/pre-dexed/debug/javac_60fdfb9832cf6f74c12bfa6074c2b655731c24f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ethan/.android/build-cache/79ecbefb941ab2fbbe07e05414f8f23c748123f9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9dafed45e330aec14abcce05bdb7bbdb2a2d7092">
+        <dex dex="/Users/Ethan/Downloads/Ftc2018RelicRecovery-master/TeamCode/build/intermediates/pre-dexed/debug/classes_3fc40e20a726cbed8b500c143eb989103efdc19b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ethan/.android/build-cache/7eb7d6c457898bb1b0522c6cd8ed0e25575c223b/output/jars/libs/gson-extras-0.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b30c2655badcc7ce97f84e49f777b7dd154bad57">
+        <dex dex="/Users/Ethan/Downloads/Ftc2018RelicRecovery-master/TeamCode/build/intermediates/pre-dexed/debug/gson-extras-0.2.1_f43c9db983fbb384d791087bebc83d67be36b7a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ethan/.android/build-cache/56da79d553ecbd4256e92d7bcfbd574541ddf57c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9403be210676ed196cdcc64c7391b9ae2361c174">
+        <dex dex="/Users/Ethan/Downloads/Ftc2018RelicRecovery-master/TeamCode/build/intermediates/pre-dexed/debug/classes_9f798af2576f4ca51d9a63016e9aae0cf1fb277e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ethan/Downloads/Ftc2018RelicRecovery-master/FtcRobotController/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f29177d970a708e807e4fd50b28a35fde2e1e1f4">
+        <dex dex="/Users/Ethan/Downloads/Ftc2018RelicRecovery-master/TeamCode/build/intermediates/pre-dexed/debug/classes_61e7b2823cf39b9325128fc943773150c08fa8bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ethan/.android/build-cache/7eb7d6c457898bb1b0522c6cd8ed0e25575c223b/output/jars/libs/Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="91b46366eb9f8203073ee2935087c097c888c0ed">
+        <dex dex="/Users/Ethan/Downloads/Ftc2018RelicRecovery-master/TeamCode/build/intermediates/pre-dexed/debug/Vuforia_085255bb95139bfe48498a0897dda26f56716122.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ethan/.android/build-cache/7eb7d6c457898bb1b0522c6cd8ed0e25575c223b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e259d01a014f392930432e85cc1ac9bf807a92df">
+        <dex dex="/Users/Ethan/Downloads/Ftc2018RelicRecovery-master/TeamCode/build/intermediates/pre-dexed/debug/classes_49b6bd8476754ec4c7a4b2c183a0a9065709403e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ethan/.android/build-cache/7eb7d6c457898bb1b0522c6cd8ed0e25575c223b/output/jars/libs/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e118dd0900e4a18fb928ebb8df2d9fbda78f2b5d">
+        <dex dex="/Users/Ethan/Downloads/Ftc2018RelicRecovery-master/TeamCode/build/intermediates/pre-dexed/debug/gson-2.8.0_30a39fbc8e682722bff48cdb52ba958eb8fcdae7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ethan/.android/build-cache/7eb7d6c457898bb1b0522c6cd8ed0e25575c223b/output/jars/libs/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a214d3b1b12e72f4fb0d5d5d8d0ec43c96de2b5">
+        <dex dex="/Users/Ethan/Downloads/Ftc2018RelicRecovery-master/TeamCode/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_d29fdf3dd6270368994aa1dcc574b1e0a6c96521.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ethan/.android/build-cache/f5ab91607bb884d13f252e1f494e4769a0cf997f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9da82f9829b6cafb8407989729481220ca06c905">
+        <dex dex="/Users/Ethan/Downloads/Ftc2018RelicRecovery-master/TeamCode/build/intermediates/pre-dexed/debug/classes_d1d65c8553718b10e784f7c451fbddcbf6243abf.jar" />
+    </item>
+
+</items>
